@@ -1,0 +1,16 @@
+<!--topgh:source id="pharma-fr" file="top-pharma-fr.src"-->
+<!--topgh:destination file="README.md" format="MD"-->
+# Top French pharmaceutical companies on GitHub
+This is an automatically generated[^1] list of [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are present on GitHub.
+
+## Ranked by starred repositories
+<!--topgh:top.accounts.1 source="pharma-fr" order_by="stars" show_accounts=True-->
+
+> [!TIP]
+> If your company is not listed, or if one of your GitHub accounts is missing, please [contact us](https://github.com/servierhub/top-pharma-fr/discussions) for inclusion,
+> or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
+> edit the [top-pharma-fr.src](https://github.com/servierhub/top-pharma-fr/blob/main/top-pharma-fr.src) source file
+> and make a [pull request](https://docs.github.com/articles/about-pull-requests).
+
+[^1]: This page is generated with the [topgh](https://github.com/HubTou/topgh) open source software.
+[^2]: With headquarters located in France and independent from other groups.

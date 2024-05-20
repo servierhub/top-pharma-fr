@@ -1,0 +1,104 @@
+# Top French pharmaceutical companies on GitHub
+# (with headquarters located in France and independent from other groups)
+
+# Author: Hubert Tournier
+
+# References:
+# https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France
+# https://www.verif.com/top/activity-sector-as0/revenue-r0/france-rcoun/21-industrie-pharmaceutique-rind/
+
+#GitHub account|Group|Key=Value ...
+#--------------|-----|-------------
+
+# 1) Sanofi
+*|Sanofi|country="FR" website="https://en.wikipedia.org/wiki/Sanofi" 2023rank=9
+Sanofi-Public|Sanofi|r=22 f=41
+Sanofi-IADC|Sanofi|r=8
+PS111761|Sanofi|r=4
+Sanofi-ECCS-DevOps|Sanofi|r=2 f=1
+Sanofi-GitHub|Sanofi|r=1 f=994
+Sanofi-Accelerator|Sanofi|f=40
+Sanofi|Sanofi|
+Sanofi-CHC|Sanofi|archived=True
+Sanofi-OneAI|Sanofi|
+Sanofi-GPMO|Sanofi|
+Sanofi-Shared-GitHub-Apps|Sanofi|
+SanofiTurkey|Sanofi|
+Sanofi-InnerSource|Sanofi|
+inercya-sanofi|Sanofi|
+Sanofi-ebiology-archives|Sanofi|
+SanofiDev|Sanofi|
+
+# 2) Les Laboratoires Servier
+*|Les Laboratoires Servier|country="FR" website="https://en.wikipedia.org/wiki/Laboratoires_Servier" 2023rank=34
+servierhub|Les Laboratoires Servier|r=9 f=2
+ServierDoBrasil|Les Laboratoires Servier|f=4
+servier-github|Les Laboratoires Servier|
+servier-data-factory|Les Laboratoires Servier|
+Servier-Pharmaceuticals-LLC|Les Laboratoires Servier|
+SERVIERDIGITALFACTORY|Les Laboratoires Servier|
+Servier-Laboratories-South-Africa|Les Laboratoires Servier|
+servier-vn1-is|Les Laboratoires Servier|
+Biogaran|Les Laboratoires Servier|
+
+# 3) Institut Mérieux
+*|Institut Mérieux|country="FR" website="https://fr.wikipedia.org/wiki/Institut_M%C3%A9rieux"
+bmx-helpdesk|Institut Mérieux|r=2
+fondationmerieux|Institut Mérieux|r=1 f=2
+biomerieux|Institut Mérieux|f=44
+biomerieux-training|Institut Mérieux|f=1
+Merieux-Nutrisciences|Institut Mérieux|
+
+# 4) Laboratoires Pierre Fabre
+*|Laboratoires Pierre Fabre|country="FR" website="https://en.wikipedia.org/wiki/Laboratoires_Pierre_Fabre"
+Ippon-PierreFabre|Laboratoires Pierre Fabre|
+
+# 5) Ipsen
+*|Ipsen|country="FR" website="https://en.wikipedia.org/wiki/Ipsen" 2023rank=46
+ipsen-digital|Ipsen|f=5
+
+# 6) Virbac
+*|Virbac|country="FR" website="https://fr.wikipedia.org/wiki/Virbac"
+
+# 7) Théa
+*|Thea|country="FR" website="https://fr.wikipedia.org/wiki/Thea"
+poland-theapharma-com|Thea|
+
+# 8) Ceva Santé Animale
+*|Ceva Santé Animale|country="FR" website="https://en.wikipedia.org/wiki/Ceva_Sant%C3%A9_Animale"
+ceva-sante-animale|Ceva Santé Animale|r=2 f=11
+ceva-digital|Ceva Santé Animale|
+
+# 9) Guerbet
+*|Guerbet|country="FR" website="https://fr.wikipedia.org/wiki/Guerbet"
+Guerbet-AI|Guerbet|r=2
+GuerbetFR|Guerbet|f=1
+guerbet|Guerbet|
+
+# 10) Laboratoire Urgo
+*|Laboratoire Urgo|country="FR" website="https://fr.wikipedia.org/wiki/Laboratoire_Urgo"
+URGODSI|Laboratoire Urgo|
+
+# 11) Laboratoires Boiron
+*|Laboratoires Boiron|country="FR" website="https://fr.wikipedia.org/wiki/Laboratoires_Boiron"
+Boiron|Laboratoires Boiron|r=25 f=1
+
+# 12) Vetoquinol
+*|Vetoquinol|country="FR" website="https://fr.wikipedia.org/wiki/Vetoquinol"
+
+# 13) Laboratoire français du fractionnement et des biotechnologies
+*|LFB|country="FR" website="https://fr.wikipedia.org/wiki/Laboratoire_fran%C3%A7ais_du_fractionnement_et_des_biotechnologies"
+
+# 14) Union de Pharmacologie Scientifique Appliquée = Laboratoires UPSA
+*|Laboratoires UPSA|country="FR" website="https://fr.wikipedia.org/wiki/Union_de_pharmacologie_scientifique_appliqu%C3%A9e"
+github-application-upsa-ph-com|Laboratoires UPSA|
+
+# 15) Biosynex
+*|Biosynex|country="FR" website="https://fr.wikipedia.org/wiki/Biosynex"
+BIOSYNEX|Biosynex|
+BIOSYNEX-IT|Biosynex|
+
+# 16) Laboratoires Expanscience
+*|Laboratoires Expanscience|country="FR" website="https://fr.wikipedia.org/wiki/Laboratoires_Expanscience"
+Laboratoires-Expanscience|Laboratoires Expanscience|
+
