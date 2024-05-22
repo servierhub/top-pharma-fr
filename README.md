@@ -65,6 +65,10 @@ Also be sure to check our companion list of [best open source software from thos
 |6|[Laboratoires Expanscience](https://fr.wikipedia.org/wiki/Laboratoires_Expanscience)||**0**|**0**|**0**|
 |||<img src="https://avatars.githubusercontent.com/u/25684700?v=4" width="32" height="32"> [Expanscience Team](https://github.com/Laboratoires-Expanscience)|0|0|0|
 
+> [!NOTE]
+> **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
+> **followers** accumulates accounts followers whether they are unique or not.
+
 > [!TIP]
 > If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
 > please [contact us](https://github.com/servierhub/top-pharma-fr/discussions) for modification,
@@ -72,5 +76,6 @@ Also be sure to check our companion list of [best open source software from thos
 > edit the [top-pharma-fr.src](https://github.com/servierhub/top-pharma-fr/blob/main/top-pharma-fr.src) source file
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on May 21, 2024..
-[^2]: With headquarters located in France and independent from other groups.
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
+2024-05-22
+[^2]: With headquarters located in France and independent from other groups
