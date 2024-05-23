@@ -28,16 +28,8 @@ Also be sure to check our companion list of [best open source software from thos
 |||<img src="https://avatars.githubusercontent.com/u/134269216?s=200&v=4" width="32" height="32"> [Guerbet-AI](https://github.com/Guerbet-AI)|10|2|0|
 |||<img src="https://avatars.githubusercontent.com/u/96572150?s=200&v=4" width="32" height="32"> [Guerbet France](https://github.com/GuerbetFR)|0|0|1|
 |||<img src="https://avatars.githubusercontent.com/u/50583109?s=200&v=4" width="32" height="32"> [guerbet](https://github.com/guerbet)|0|0|0|
-|3|[Laboratoires Boiron](https://fr.wikipedia.org/wiki/Laboratoires_Boiron)||**4**|**25**|**1**|
-|||<img src="https://avatars.githubusercontent.com/u/3865893?v=4" width="32" height="32"> [Boiron Digital and Mobile](https://github.com/Boiron)|4|25|1|
-|4|[Institut Mérieux](https://fr.wikipedia.org/wiki/Institut_M%C3%A9rieux)||**3**|**3**|**47**|
-|||<img src="https://avatars.githubusercontent.com/u/34449057?s=200&v=4" width="32" height="32"> [Fondation Mérieux](https://github.com/fondationmerieux)|3|1|2|
-|||<img src="https://avatars.githubusercontent.com/u/93681055?v=4" width="32" height="32"> [bioMerieux Support](https://github.com/bmx-helpdesk)|0|2|0|
-|||<img src="https://avatars.githubusercontent.com/u/71276137?s=200&v=4" width="32" height="32"> [bioMérieux](https://github.com/biomerieux)|0|0|44|
-|||<img src="https://avatars.githubusercontent.com/u/83700282?s=200&v=4" width="32" height="32"> [bioMérieux (training)](https://github.com/biomerieux-training)|0|0|1|
-|||<img src="https://avatars.githubusercontent.com/u/13526935?s=200&v=4" width="32" height="32"> [Merieux-Nutrisciences](https://github.com/Merieux-Nutrisciences)|0|0|0|
-|5|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**1**|**9**|**6**|
-|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|1|9|2|
+|3|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**7**|**14**|**6**|
+|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|7|14|2|
 |||<img src="https://avatars.githubusercontent.com/u/88554853?s=200&v=4" width="32" height="32"> [Servier do Brasil](https://github.com/ServierDoBrasil)|0|0|4|
 |||<img src="https://avatars.githubusercontent.com/u/71084417?s=200&v=4" width="32" height="32"> [Servier](https://github.com/servier-github)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/77001237?s=200&v=4" width="32" height="32"> [servier-data-factory](https://github.com/servier-data-factory)|0|0|0|
@@ -46,6 +38,14 @@ Also be sure to check our companion list of [best open source software from thos
 |||<img src="https://avatars.githubusercontent.com/u/69671602?s=200&v=4" width="32" height="32"> [Servier Laboratories South Africa](https://github.com/Servier-Laboratories-South-Africa)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/78061992?s=200&v=4" width="32" height="32"> [Servier Vietnam IS](https://github.com/servier-vn1-is)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/16940165?v=4" width="32" height="32"> [Biogaran](https://github.com/Biogaran)|0|0|0|
+|4|[Laboratoires Boiron](https://fr.wikipedia.org/wiki/Laboratoires_Boiron)||**4**|**25**|**1**|
+|||<img src="https://avatars.githubusercontent.com/u/3865893?v=4" width="32" height="32"> [Boiron Digital and Mobile](https://github.com/Boiron)|4|25|1|
+|5|[Institut Mérieux](https://fr.wikipedia.org/wiki/Institut_M%C3%A9rieux)||**3**|**3**|**47**|
+|||<img src="https://avatars.githubusercontent.com/u/34449057?s=200&v=4" width="32" height="32"> [Fondation Mérieux](https://github.com/fondationmerieux)|3|1|2|
+|||<img src="https://avatars.githubusercontent.com/u/93681055?v=4" width="32" height="32"> [bioMerieux Support](https://github.com/bmx-helpdesk)|0|2|0|
+|||<img src="https://avatars.githubusercontent.com/u/71276137?s=200&v=4" width="32" height="32"> [bioMérieux](https://github.com/biomerieux)|0|0|44|
+|||<img src="https://avatars.githubusercontent.com/u/83700282?s=200&v=4" width="32" height="32"> [bioMérieux (training)](https://github.com/biomerieux-training)|0|0|1|
+|||<img src="https://avatars.githubusercontent.com/u/13526935?s=200&v=4" width="32" height="32"> [Merieux-Nutrisciences](https://github.com/Merieux-Nutrisciences)|0|0|0|
 |6|[Laboratoires Pierre Fabre](https://en.wikipedia.org/wiki/Laboratoires_Pierre_Fabre)||**0**|**0**|**0**|
 |||<img src="https://avatars.githubusercontent.com/u/120199393?s=200&v=4" width="32" height="32"> [Ippon-PierreFabre](https://github.com/Ippon-PierreFabre)|0|0|0|
 |6|[Ipsen](https://en.wikipedia.org/wiki/Ipsen)||**0**|**0**|**5**|
@@ -77,5 +77,5 @@ Also be sure to check our companion list of [best open source software from thos
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
-2024-05-22
+2024-05-23
 [^2]: With headquarters located in France and independent from other groups
