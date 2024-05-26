@@ -25,7 +25,7 @@ This listing gives you access to all GitHub accounts used in this survey:
 > If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
 > please [contact us](discussions) for modification,
 > or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
-> edit the [pharma-fr.src](blob/main/pharma-fr.src) source file
+> edit the [pharma-fr.src](pharma-fr.src) source file
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
 
 |Rank|Group|GitHub Account|Stars|Repos|Followers|
