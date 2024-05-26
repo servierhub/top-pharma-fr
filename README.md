@@ -1,6 +1,6 @@
 <!--author="Hubert Tournier"-->
 # Top open source software from French pharmaceutical companies
-This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are [present on GitHub](SOURCES.md). It will be periodically refreshed from these [GitHub accounts](SOURCES.md)' repositories.
+This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are [present on GitHub](SOURCES.md). It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
 
 You can also check [what has been updated lately](NEW.md).
 
