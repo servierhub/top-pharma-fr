@@ -1,24 +1,29 @@
 <!--author="Hubert Tournier"-->
 <!--topgh:source id="pharma-fr" file="pharma-fr.src"-->
-<!--topgh:destination file="README.md" format="MD"-->
-# Top French pharmaceutical companies on GitHub
-This is an automatically generated[^1] list of [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are present on GitHub. It will be periodically refreshed.
+<!--topgh:destination file="SOURCES.md" format="MD"-->
+# Top French pharmaceutical groups on GitHub
+This is an automatically generated[^1] list of [French pharmaceutical groups](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are present on GitHub. It will be periodically refreshed from the following GitHub accounts.
 
-Also be sure to check our companion list of [best open source software from those companies](https://github.com/servierhub/top-opensource-pharma-fr).
+You can also access the [ranked listing of open source software they share](README.md) or [what they have updated lately](NEW.md).
 
-## Ranked by starred repositories
-<!--topgh:top.accounts.1 source="pharma-fr" order_by="stars" show_accounts=True-->
-
+## Groups ranked by starred repositories
 > [!NOTE]
 > **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
 > **followers** accumulates accounts followers whether they are unique or not.
 
+<!--topgh:top.accounts.1 source="pharma-fr" order_by="stars" hide_private=True-->
+
+## Groups ranked by starred repositories with all details
+This listing gives you access to all GitHub accounts used in this survey:
+
 > [!TIP]
 > If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
-> please [contact us](https://github.com/servierhub/top-pharma-fr/discussions) for modification,
+> please [contact us](discussions) for modification,
 > or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
-> edit the [top-pharma-fr.src](https://github.com/servierhub/top-pharma-fr/blob/main/top-pharma-fr.src) source file
+> edit the [pharma-fr.src](blob/main/pharma-fr.src) source file
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
+
+<!--topgh:top.accounts.2 source="pharma-fr" order_by="stars" show_accounts=True-->
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
 <!--topgh:date-->

@@ -1,0 +1,24 @@
+<!--author="Hubert Tournier"-->
+<!--topgh:source id="pharma-fr" file="pharma-fr.src"-->
+<!--topgh:destination file="NEW.md" format="MD"-->
+# What's new in open source software from French pharmaceutical companies
+This is an automatically generated[^1] list of recently updated [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are [present on GitHub](SOURCES.md). It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
+
+You can also access the [full listing](README.md).
+
+## Sorted by last update
+Taking the 200 last ones.
+
+> [!NOTE]
+> <img src="https://github.com/HubTou/topgh/blob/main/icons/gstars.png"> **stars** - number of people who especially appreciated the repository<br>
+> <img src="https://github.com/HubTou/topgh/blob/main/icons/forks.png"> **forks** - number of people who have cloned the repository in order to modify it<br>
+> <img src="https://github.com/HubTou/topgh/blob/main/icons/watchers.png"> **watchers** - number of people who are monitoring changes in the repository<br>
+> <img src="https://github.com/HubTou/topgh/blob/main/icons/code.png"> **main programming language**<br>
+> <img src="https://github.com/HubTou/topgh/blob/main/icons/license.png"> **license**<br>
+> <img src="https://github.com/HubTou/topgh/blob/main/icons/last.png"> **last update date & time**<br>
+
+<!--topgh:top.repositories.1 source="pharma-fr" order_by="last_updated" max_items=200-->
+
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
+<!--topgh:date-->
+[^2]: With headquarters located in France and independent from other groups

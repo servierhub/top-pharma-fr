@@ -1,4 +1,4 @@
-# Top French pharmaceutical companies on GitHub
+# French pharmaceutical companies on GitHub
 # (with headquarters located in France and independent from other groups)
 
 # Author: Hubert Tournier
@@ -31,7 +31,7 @@ SanofiDev|Sanofi|
 
 # 2) Les Laboratoires Servier
 *|Les Laboratoires Servier|country="FR" website="https://en.wikipedia.org/wiki/Laboratoires_Servier" 2023rank=34
-servierhub|Les Laboratoires Servier|r=9 f=2
+servierhub|Les Laboratoires Servier|r=15 f=2
 ServierDoBrasil|Les Laboratoires Servier|f=4
 servier-github|Les Laboratoires Servier|
 servier-data-factory|Les Laboratoires Servier|
