@@ -1,10 +1,11 @@
 <!--author="Hubert Tournier"-->
 <!--topgh:source id="pharma-fr" file="pharma-fr.src"-->
-<!--topgh:destination file="README.md" format="MD"-->
+<!--topgh:destination file="Results/README.md" format="MD" page1_in_root=True-->
+[![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # Top open source software from French pharmaceutical companies
-This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are [present on GitHub](SOURCES.md). It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
+This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are [present on GitHub](Results/SOURCES.md). It will be periodically refreshed from these [GitHub accounts](Results/SOURCES.md) repositories.
 
-You can also check [what has been updated lately](NEW.md).
+You can also check [what has been updated lately](Results/NEW.md).
 
 ## Ranked by starred repositories
 > [!NOTE]
