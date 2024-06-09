@@ -1,0 +1,19 @@
+<!--author="Hubert Tournier"-->
+<!--topgh:source id="pharma-fr" file="Sources/pharma-fr.src"-->
+<!--topgh:destination file="Results/TOPICS.md" format="MD"-->
+[![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
+# What topics are covered by open source software from French pharmaceutical companies
+This is an automatically generated[^1] list of topics covered by [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are present on GitHub.
+It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
+
+Unleash [serendipity](https://en.wikipedia.org/wiki/Serendipity) to discover new software from the accounts and repositories we selected!
+
+You can also access the [ranked listing of open source software](/README.md) they share
+and [what they have updated lately](NEW.md).
+
+## Ranked by frequence
+
+<!--topgh:top.topics.1 source="pharma-fr"-->
+
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->
+[^2]: With headquarters located in France and independent from other groups

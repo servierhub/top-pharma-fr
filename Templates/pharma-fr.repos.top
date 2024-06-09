@@ -1,11 +1,13 @@
 <!--author="Hubert Tournier"-->
-<!--topgh:source id="pharma-fr" file="pharma-fr.src"-->
+<!--topgh:source id="pharma-fr" file="Sources/pharma-fr.src"-->
 <!--topgh:destination file="Results/README.md" format="MD" page1_in_root=True-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # Top open source software from French pharmaceutical companies
-This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are [present on GitHub](Results/SOURCES.md). It will be periodically refreshed from these [GitHub accounts](Results/SOURCES.md) repositories.
+This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are present on GitHub.
+It will be periodically refreshed from these [GitHub accounts](<!--topgh:insert_if_page1 text="Results/"-->SOURCES.md) repositories.
 
-You can also check [what has been updated lately](Results/NEW.md).
+You can also access [what they have updated lately](<!--topgh:insert_if_page1 text="Results/"-->NEW.md),
+and [which topics are covered](<!--topgh:insert_if_page1 text="Results/"-->TOPICS.md) by these software.
 
 ## Ranked by starred repositories
 > [!NOTE]
@@ -18,6 +20,5 @@ You can also check [what has been updated lately](Results/NEW.md).
 
 <!--topgh:top.repositories.1 source="pharma-fr" order_by="stargazers_count" page_items=200-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->
 [^2]: With headquarters located in France and independent from other groups

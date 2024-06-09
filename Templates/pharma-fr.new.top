@@ -1,13 +1,15 @@
 <!--author="Hubert Tournier"-->
-<!--topgh:source id="pharma-fr" file="pharma-fr.src"-->
+<!--topgh:source id="pharma-fr" file="Sources/pharma-fr.src"-->
 <!--topgh:destination file="Results/NEW.md" format="MD"-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # What's new in open source software from French pharmaceutical companies
-This is an automatically generated[^1] list of recently updated [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are [present on GitHub](SOURCES.md). It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
+This is an automatically generated[^1] list of recently updated [open source](https://opensource.org/osd) software from [French pharmaceutical companies](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Entreprise_pharmaceutique_ayant_son_si%C3%A8ge_en_France)[^2] that are present on GitHub.
+It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
 
-You can also access the [full listing](/README.md).
+You can also access the [ranked listing of open source software](/README.md) they share,
+and [which topics are covered](TOPICS.md) by these software.
 
-## Sorted by last update
+## Sorted by last update till <!--topgh:date-->
 Taking the 200 last ones.
 
 > [!NOTE]
@@ -20,6 +22,5 @@ Taking the 200 last ones.
 
 <!--topgh:top.repositories.1 source="pharma-fr" order_by="last_updated" max_items=200-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->
 [^2]: With headquarters located in France and independent from other groups
